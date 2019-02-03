@@ -3,29 +3,29 @@ code --install-extension bierner.color-info
 code --install-extension christian-kohler.npm-intellisense
 code --install-extension CoenraadS.bracket-pair-colorizer
 code --install-extension dbaeumer.vscode-eslint
-code --install-extension donjayamanne.githistory
+# code --install-extension donjayamanne.githistory
 code --install-extension eamodio.gitlens
 code --install-extension eg2.vscode-npm-script
 code --install-extension esbenp.prettier-vscode
-code --install-extension fatihacet.gitlab-workflow
+# code --install-extension fatihacet.gitlab-workflow
 code --install-extension flowtype.flow-for-vscode
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
-code --install-extension HookyQR.beautify
-code --install-extension howardzuo.vscode-gitk
+# code --install-extension HookyQR.beautify
+# code --install-extension howardzuo.vscode-gitk
 code --install-extension k--kato.intellij-idea-keybindings
-code --install-extension KnisterPeter.vscode-github
+# code --install-extension KnisterPeter.vscode-github
 code --install-extension msjsdiag.debugger-for-chrome
-code --install-extension pflannery.vscode-versionlens
+# code --install-extension pflannery.vscode-versionlens
 code --install-extension robertohuertasm.vscode-icons
-code --install-extension shd101wyy.markdown-preview-enhanced
+# code --install-extension shd101wyy.markdown-preview-enhanced
 code --install-extension shinnn.stylelint
 code --install-extension slevesque.vscode-multiclip
 code --install-extension streetsidesoftware.code-spell-checker
-code --install-extension vscodevim.vim
-code --install-extension waderyan.gitblame
+# code --install-extension vscodevim.vim
+# code --install-extension waderyan.gitblame
 code --install-extension wix.vscode-import-cost
 code --install-extension wmaurer.vscode-jumpy
-code --install-extension xyz.local-history
-code --install-extension yzhang.markdown-all-in-one
-code --install-extension ziyasal.vscode-open-in-github
+# code --install-extension xyz.local-history
+# code --install-extension yzhang.markdown-all-in-one
+# code --install-extension ziyasal.vscode-open-in-github
