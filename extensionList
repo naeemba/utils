@@ -29,3 +29,4 @@ code --install-extension wmaurer.vscode-jumpy
 # code --install-extension xyz.local-history
 # code --install-extension yzhang.markdown-all-in-one
 # code --install-extension ziyasal.vscode-open-in-github
+code --install-extension Shan.code-settings-sync
