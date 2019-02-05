@@ -6,3 +6,6 @@
 
 ### Commit merge conflicts with default commit message [stackoverflow link](https://stackoverflow.com/a/36189488/2443849)
 `git commit --no-edit`
+
+### Useful websites
+[Git Explorer](https://gitexplorer.com/)
