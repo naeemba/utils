@@ -16,7 +16,7 @@ code --install-extension formulahendry.auto-rename-tag
 code --install-extension k--kato.intellij-idea-keybindings
 # code --install-extension KnisterPeter.vscode-github
 code --install-extension msjsdiag.debugger-for-chrome
-# code --install-extension pflannery.vscode-versionlens
+code --install-extension pflannery.vscode-versionlens
 code --install-extension robertohuertasm.vscode-icons
 # code --install-extension shd101wyy.markdown-preview-enhanced
 code --install-extension shinnn.stylelint
