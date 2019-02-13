@@ -19,6 +19,8 @@ Help                  : h
 ### To update the local list of remote branches: [stackoverflow](https://stackoverflow.com/a/36358502/2443849)
 `git remote update origin --prune`
 
+### To view changes have made by a commit [stackoverflow](https://stackoverflow.com/a/17563740/2443849)
+`git show [COMMIT_ID]`
 
 
 ## Useful websites
