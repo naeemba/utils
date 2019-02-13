@@ -14,6 +14,10 @@ Help                  : h
 ### Commit merge conflicts with default commit message [stackoverflow](https://stackoverflow.com/a/36189488/2443849)
 `git commit --no-edit`
 
+### list of all branches (remote and local)
+`git branch -a`
+### To update the local list of remote branches: [stackoverflow](https://stackoverflow.com/a/36358502/2443849)
+`git remote update origin --prune`
 
 
 
