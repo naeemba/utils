@@ -22,7 +22,7 @@ Help                  : h
 ### To view changes have made by a commit [stackoverflow](https://stackoverflow.com/a/17563740/2443849)
 `git show [COMMIT_ID]`
 
-### To checkout remote branch
+### To checkout remote branch [stackoverflow](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch)
 `git checkout -t [Remote branch name]`
 
 ## Useful websites
