@@ -26,13 +26,14 @@ Help                  : h
 `git checkout -t [Remote branch name]`
 
 ### Beautiful one line git logs [Ma.ttias.be](https://ma.ttias.be/pretty-git-log-in-one-line/)
-`git log --pretty=oneline`<br />
- or:<br />
-`git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit`<br />
-or create an alias for that:<br />
-
-`git config --global alias.logline "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"`<br />
+`git log --pretty=oneline`\
+ or:\
+`git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit`\
+or create an alias for that:\
+`git config --global alias.logline "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"`\
 `git logline`
+##### Other pretty logs
+`git log --pretty=format:"%Cred%h%Creset %C(yellow)%ad%Creset %s %Cgreen%an%Creset"`
 
 ## Useful websites
 [Git Explorer](https://gitexplorer.com/)
