@@ -36,6 +36,6 @@ or create an alias for that:\
 `git log --pretty=format:"%Cred%H%Creset %C(yellow)%ad%Creset %s %Cgreen%an%Creset"`
 
 ## Useful websites
-[Git Explorer](https://gitexplorer.com/)
-[Git Book - Commit History](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+[Git Explorer](https://gitexplorer.com/)\
+[Git Book - Commit History](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)\
 [Git Log](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-log.html)
