@@ -25,5 +25,13 @@ Help                  : h
 ### To checkout remote branch [stackoverflow](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch)
 `git checkout -t [Remote branch name]`
 
+### Beautiful one line git logs [Ma.ttias.be](https://ma.ttias.be/pretty-git-log-in-one-line/)
+`git log --pretty=oneline`
+ or:
+`git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit`
+or create an alias for that:
+`git config --global alias.logline "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"`
+`git logline`
+
 ## Useful websites
 [Git Explorer](https://gitexplorer.com/)
