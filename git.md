@@ -33,7 +33,7 @@ or create an alias for that:\
 `git config --global alias.logline "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"`\
 `git logline`
 ##### Other pretty logs
-`git log --pretty=format:"%Cred%h%Creset %C(yellow)%ad%Creset %s %Cgreen%an%Creset"`
+`git log --pretty=format:"%Cred%H%Creset %C(yellow)%ad%Creset %s %Cgreen%an%Creset"`
 
 ## Useful websites
 [Git Explorer](https://gitexplorer.com/)
