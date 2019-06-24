@@ -11,3 +11,5 @@
 |`:e %:h/filename`<br />`:w`|Create a new file|[source](https://stackoverflow.com/a/13239757/2443849)|will create a new file named filename in the same directory as the currently open file, and write it|
 |`2dt{character}`|Delete until second occurance of `{character}`|[source](https://askubuntu.com/a/64840)|This will delete upto but not including `{character}`|
 |`2ft{character}`|Delete until second occurance of `{character}`|[source](https://askubuntu.com/a/64840)|This will delete upto and including `{character}`|
+|`daw`|Delete the word under the cursor|[source](https://stackoverflow.com/a/835016/2443849)|Delete a word|
+|`caw`|Delete the word under the cursor and put you in insert mode|[source](https://stackoverflow.com/a/835016/2443849)|Change a word|
