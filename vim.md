@@ -13,3 +13,4 @@
 |`2ft{character}`|Delete until second occurance of `{character}`|[source](https://askubuntu.com/a/64840)|This will delete upto and including `{character}`|
 |`daw`|Delete the word under the cursor|[source](https://stackoverflow.com/a/835016/2443849)|Delete a word|
 |`caw`|Delete the word under the cursor and put you in insert mode|[source](https://stackoverflow.com/a/835016/2443849)|Change a word|
+|`:E`|Open current directories files to select from|[source](https://stackoverflow.com/questions/573039/shortcut-to-open-file-in-vim#comment3399452_574537)|Browsable current directory|
