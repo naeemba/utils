@@ -14,4 +14,4 @@
 |`daw`|Delete the word under the cursor|[source](https://stackoverflow.com/a/835016/2443849)|Delete a word|
 |`caw`|Delete the word under the cursor and put you in insert mode|[source](https://stackoverflow.com/a/835016/2443849)|Change a word|
 |`:E`|Open current directories files to select from|[source](https://stackoverflow.com/questions/573039/shortcut-to-open-file-in-vim#comment3399452_574537)|Browsable current directory|
-|`:ex`|Open file explorer, hitting `r` on a file will rename it and hitting `d` will delete that file|[source](https://stackoverflow.com/a/1205382/2443849)|File explorer|
+|`:ex`|File explorer|[source](https://stackoverflow.com/a/1205382/2443849)|Open file explorer, hitting `r` on a file will rename it and hitting `d` will delete that file|
