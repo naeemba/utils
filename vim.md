@@ -15,3 +15,5 @@
 |`caw`|Delete the word under the cursor and put you in insert mode|[source](https://stackoverflow.com/a/835016/2443849)|Change a word|
 |`:E`|Open current directories files to select from|[source](https://stackoverflow.com/questions/573039/shortcut-to-open-file-in-vim#comment3399452_574537)|Browsable current directory|
 |`:ex`|File explorer|[source](https://stackoverflow.com/a/1205382/2443849)|Open file explorer, hitting `r` on a file will rename it and hitting `d` will delete that file|
+|`Gmove {newName}`|Rename file|[source](https://stackoverflow.com/a/13501814/2443849)|Rename current file in buffer, git and disk with undo history|
+|`Gwrite`|Add to git|[source](https://stackoverflow.com/a/13501814/2443849)|Add current file to git|
