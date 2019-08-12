@@ -22,3 +22,4 @@
 |`I`|Move cursor to the first non blank char of the current line and go to insert mode|[source](http://worldtimzone.com/res/vi.html)||
 |`O`|Move cursor to end of the current line and go to insert mode|[source](http://worldtimzone.com/res/vi.html)||
 |`^`|Move to first non blank char in current line|[source](https://stackoverflow.com/a/50483994/2443849)||
+|`*`|Search for the word under the cursor|[source](https://chrome.google.com/webstore/detail/lbhnkgjaoonakhladmcjkemebepeohkn)||
