@@ -17,3 +17,5 @@
 |`:ex`|File explorer|[source](https://stackoverflow.com/a/1205382/2443849)|Open file explorer, hitting `r` on a file will rename it and hitting `d` will delete that file|
 |`Gmove {newName}`|Rename file|[source](https://stackoverflow.com/a/13501814/2443849)|Rename current file in buffer, git and disk with undo history|
 |`Gwrite`|Add to git|[source](https://stackoverflow.com/a/13501814/2443849)|Add current file to git|
+|`:E`|File Explorer|[source](https://unix.stackexchange.com/a/495104)||
+|`:E => select file => shift-d`|Delete File|[source](https://unix.stackexchange.com/a/495104)||
