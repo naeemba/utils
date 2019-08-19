@@ -20,7 +20,7 @@
 |`:E`|File Explorer|[source](https://unix.stackexchange.com/a/495104)||
 |`:E => select file => shift-d`|Delete File|[source](https://unix.stackexchange.com/a/495104)||
 |`I`|Move cursor to the first non blank char of the current line and go to insert mode|[source](http://worldtimzone.com/res/vi.html)||
-|`O`|Move cursor to end of the current line and go to insert mode|[source](http://worldtimzone.com/res/vi.html)||
+|`I`|Move cursor to end of the current line and go to insert mode|[source](http://worldtimzone.com/res/vi.html)||
 |`^`|Move to first non blank char in current line|[source](https://stackoverflow.com/a/50483994/2443849)||
 |`*`|Search for the word under the cursor|[source](https://chrome.google.com/webstore/detail/lbhnkgjaoonakhladmcjkemebepeohkn)||
 |`:e`|Refresh current file|[source](https://unix.stackexchange.com/a/149210)||
