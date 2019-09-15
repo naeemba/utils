@@ -1,5 +1,7 @@
 # VIM Commands
 
+Some of these shortcuts work with some plugins that I have, you can see the list of plugins [here](https://github.com/naeemba/dotfiles/blob/master/nvim/init.vim).
+
 |Command|Description|Source|Details|
 |-------|-----------|------|-------|
 |`=i{`|Correct indentions|[source](https://www.freecodecamp.org/news/learn-linux-vim-basic-features-19134461ab85/)|Place the cursor anywhere within a block you want to indent, press Esc to enter normal mode and then: =i{|
@@ -25,3 +27,7 @@
 |`*`|Search for the word under the cursor|[source](https://chrome.google.com/webstore/detail/lbhnkgjaoonakhladmcjkemebepeohkn)||
 |`:e`|Refresh current file|[source](https://unix.stackexchange.com/a/149210)||
 |Ctrl+w|Switch between splits|[source](https://linuxhint.com/how-to-use-vim-split-screen/)||
+|`vi'`|Select inside `'`|[source](https://stackoverflow.com/a/1062001)||
+|`vib`|Select inside block (parenthesis)|[source](https://stackoverflow.com/a/1062001)||
+|`viB`|Select inside curly braces|[source](https://stackoverflow.com/a/1062001)||
+|`va'` `vab` `vaB`|Like 3 aboves, also will select the `'` itself too|[source](https://stackoverflow.com/a/1062001)||
