@@ -1,4 +1,4 @@
-# VIM Commands
+# Useful VIM Shortcuts
 
 Some of these shortcuts work with some plugins that I have, you can see the list of plugins [here](https://github.com/naeemba/dotfiles/blob/master/nvim/init.vim).
 
