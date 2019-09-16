@@ -25,6 +25,12 @@ Help                  : h
 ### To checkout remote branch [stackoverflow](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch)
 `git checkout -t [Remote branch name]`
 
+### Check a file in another branch or revision [Source](https://stackoverflow.com/a/338470)
+
+`git show REVISION:path/to/file`
+
+`git show HEAD~4:src/main.c`
+
 ### Beautiful one line git logs [Ma.ttias.be](https://ma.ttias.be/pretty-git-log-in-one-line/)
 `git log --pretty=oneline`\
  or:\
