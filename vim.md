@@ -1,6 +1,6 @@
-# Vim Operators
+# Operators
 
-|Command|Operation|
+|||
 |-------|---------|
 |c|change|
 |d|delete|
@@ -12,6 +12,36 @@
 |<|shift left|
 |>|shift right|
 |=|indent|
+
+# Text Objects
+
+|||
+|-------|---------|
+|aw|a word (with followed space), by start of words (punctuation considered words)|
+|iw|inner word|
+|aW|a WORD, by start of words (spaces separate words)|
+|iW|inner WORD|
+|ap|a paragraph|
+|ip|inner paragraph|
+|ab|a bracket|
+|ib|inner bracket|
+|at|a tag block|
+|it|inner tag block|
+
+# Motions
+
+|||
+|-|-|
+|%|go to first matching paren / bracket|
+|[count]+|down to first non blank char of line|
+|[count]$|to end of line|
+|[count]f/F(char)|to next occurence of (char)|
+|[count]t/T(char)|to before next occurence of (char)|
+|[count]h/k/j/l|left, down, up, right|
+|[count]]m|go to beginning of next method|
+|[count]w/W|go a word / WORD to the right|
+|[count]b/B|go a word / WORD to the left|
+|[count]e/E|go to end of word / WORD right|
 
 # Useful VIM Shortcuts
 
