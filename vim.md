@@ -1,3 +1,18 @@
+# Vim Operators
+
+|Command|Operation|
+|-------|---------|
+|c|change|
+|d|delete|
+|y|yank into register|
+|~|swap case|
+|gu|make lowercase|
+|gU|make uppercase|
+|!|filter to external program|
+|<|shift left|
+|>|shift right|
+|=|indent|
+
 # Useful VIM Shortcuts
 
 Some of these shortcuts work with some plugins that I have, you can see the list of plugins [here](https://github.com/naeemba/dotfiles/blob/master/nvim/init.vim).
