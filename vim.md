@@ -76,3 +76,9 @@ Some of these shortcuts work with some plugins that I have, you can see the list
 |`vib`|Select inside block (parenthesis)|[source](https://stackoverflow.com/a/1062001)||
 |`viB`|Select inside curly braces|[source](https://stackoverflow.com/a/1062001)||
 |`va'` `vab` `vaB`|Like 3 aboves, also will select the `'` itself too|[source](https://stackoverflow.com/a/1062001)||
+|6+|6x go down to line start|[source](https://www.youtube.com/watch?v=E-ZbrtoSuzw)|
+|gUaW|capitalize a WORD|[source](https://www.youtube.com/watch?v=E-ZbrtoSuzw)|
+|3ce|3x change to word end|[source](https://www.youtube.com/watch?v=E-ZbrtoSuzw)|
+|4$|4x go to end of line|[source](https://www.youtube.com/watch?v=E-ZbrtoSuzw)|
+|d]m|delete to start of next method|[source](https://www.youtube.com/watch?v=E-ZbrtoSuzw)|
+|%|jump to match of next paren or bracket|[source](https://www.youtube.com/watch?v=E-ZbrtoSuzw)|
