@@ -71,7 +71,7 @@ Some of these shortcuts work with some plugins that I have, you can see the list
 |`^`|Move to first non blank char in current line|[source](https://stackoverflow.com/a/50483994/2443849)||
 |`*`|Search for the word under the cursor|[source](https://chrome.google.com/webstore/detail/lbhnkgjaoonakhladmcjkemebepeohkn)||
 |`:e`|Refresh current file|[source](https://unix.stackexchange.com/a/149210)||
-|Ctrl+w|Switch between splits|[source](https://linuxhint.com/how-to-use-vim-split-screen/)||
+|Ctrl+w followed by `w`, `h`, `j`, `k`, `l`|Switch between windows|[source](https://linuxhint.com/how-to-use-vim-split-screen/)[source](https://superuser.com/a/280501/894627)||
 |`vi'`|Select inside `'`|[source](https://stackoverflow.com/a/1062001)||
 |`vib`|Select inside block (parenthesis)|[source](https://stackoverflow.com/a/1062001)||
 |`viB`|Select inside curly braces|[source](https://stackoverflow.com/a/1062001)||
